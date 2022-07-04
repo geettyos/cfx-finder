@@ -13,7 +13,7 @@
 ### Usage
 
 1. Download ZIP <a href="https://github.com/geettyos/cfx-finder/archive/refs/heads/main.zip">here</a> and extract the ZIP 
-2. Install requirements </a> by typing `npm install` in Command Prompt
+2. Install requirements </a> by typing `npm install npm@latest -g` in Command Prompt
 3. Run the file `run.bat` and enter the requested digits
 
 --------------------------------------
