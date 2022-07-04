@@ -4,7 +4,7 @@
   # Cfx-finder
   Script to reveal the ip of FiveM servers. Click <a href="https://github.com/geettyos/cfx-finder/issues">here</a> to report bugs.
   
-  ![image](https://cdn.discordapp.com/attachments/828798380309348376/993572345627295804/unknown_1.png)
+  ![image](https://cdn.discordapp.com/attachments/828798380309348376/993577036155211866/descarga_1.png)
 
 </div>
 
