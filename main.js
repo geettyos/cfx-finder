@@ -2,12 +2,12 @@
 //Discord: GEETTYOS#0001
 //This script was made for educational purposes, I am not responsible for your actions using this script. This script was made for educational purposes.*/
 
-console.log("\x1b[31m   _____ ________   __              _____ _____     ______ _           _           ");
-console.log("  / ____|  ____\\ \\ / /        |_   _|  __ \\   |  ____(_)         | |          ");
-console.log(" | |    | |__   \\ V /           | | | |__) |  | |__   _ _ __   __| | ___ _ __ ");
-console.log(" | |    |  __|   > <            | | |  ___/   |  __| | | '_ \\ / _` |/ _ \\ '__|");
-console.log(" | |____| |     / . \\          _| |_| |       | |    | | | | | (_| |  __/ |   ");
-console.log("  \\_____|_|    /_/ \\_         |_____|_|       |_|    |_|_| |_|\\__,_|\\___|_|   ");
+console.log("\x1b[31m   _____ __________         _____ _____     ______ _           _           ");
+console.log("  / ____|  ____\\ \\ / /     |_   _|  __ \\   |  ____(_)         | |          ");
+console.log(" | |    | |__   \\ V /        | | | |__) |  | |__   _ _ __   __| | ___ _ __ ");
+console.log(" | |    |  __|   > <         | | |  ___/   |  __| | | '_ \\ / _` |/ _ \\ '__|");
+console.log(" | |____| |     / . \\       _| |_| |       | |    | | | | | (_| |  __/ |   ");
+console.log("  \\_____|_|    /_/ \\_      |_____|_|       |_|    |_|_| |_|\\__,_|\\___|_|   ");
 console.log("\x1b[0m");
 
 const readline = require('readline');
